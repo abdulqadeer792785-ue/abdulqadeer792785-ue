@@ -24,7 +24,11 @@ Various programming and software engineering projects developed as part of my un
 
 **University of Engineering and Technology (UET), Lahore**  
 Software Engineering
+## Currently Learning
 
+- Software Engineering
+- C#
+- Data Structures and Algorithms
 ## Contact
 
 - GitHub: [@abdulqadeer792785-ue](https://github.com/abdulqadeer792785-ue)
