@@ -1,16 +1,30 @@
-## Hi there 👋
+# Abdul Qadeer
 
-<!--
-**abdulqadeer792785-ue/abdulqadeer792785-ue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am a Software Engineering student at UET Lahore. I am interested in programming, software development, and problem solving. I am currently learning programming and software engineering concepts and working on improving my development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Technologies
+
+| Category | Technologies |
+|----------|--------------|
+| Languages | C#, Python |
+| Tools | Git, GitHub, VS Code |
+| Concepts | Object-Oriented Programming, Data Structures |
+
+## Featured Projects
+
+### Caffè Artigiano
+A console-based cafe management system developed for managing products, orders, reservations, and customer information.
+
+### Student Projects
+Various programming and software engineering projects developed as part of my university coursework.
+
+## Education
+
+**University of Engineering and Technology (UET), Lahore**  
+Software Engineering
+
+## Contact
+
+- GitHub: [@abdulqadeer792785-ue](https://github.com/abdulqadeer792785-ue)
